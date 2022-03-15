@@ -1,6 +1,6 @@
 # Go for Python extensions
 
-This contains an example of a Python [extension](https://docs.python.org/3/extending/extending.html) written in [Go](https://github.com/golang/go) and [Cython](https://github.com/cython/cython). A Python extension made in this way is compiled into a single binary.
+This contains an example of a Python [extension](https://docs.python.org/3/extending/extending.html) written in [Go](https://github.com/golang/go) and [Cython](https://github.com/cython/cython).
 
 It is tested on Linux. Some of the files need to be changed in order to compile on Windows.
 
