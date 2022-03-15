@@ -21,7 +21,7 @@ $ make
 
 ### How it works
 
-When `import "C"` is used in a `.go` file, all the `.c` files in the same package are also compiled and linked together. We can use Cython to generate the C source necessary for a Python extension then ask the Go compiler to compile and link everything.
+When `import "C"` is used in a `.go` file, all the `.c` files in the same package are also compiled and linked together. We can use Cython to generate the C source necessary for a Python extension and then ask the Go compiler to compile and link everything.
 
 ### References
 
