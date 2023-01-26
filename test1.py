@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-import example
+from src.example import foo
 
-print(example.foo(1))
+print(foo(1))
