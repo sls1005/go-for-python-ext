@@ -8,7 +8,7 @@ It is tested on Linux. Some of the files need to be changed in order to compile 
 
 To build the example, you need...
 
-+ Python 2.7+ or 3.3+ (CPython)
++ Python 3.11 (CPython)
 + Cython 0.20+
 + Go 1.12+
 

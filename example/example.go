@@ -1,7 +1,7 @@
 package example
 
-//#cgo CFLAGS: -I/usr/include/python3.10
-//#cgo LDFLAGS: -lpython3.10
+//#cgo CFLAGS: -I/usr/include/python3.11
+//#cgo LDFLAGS: -lpython3.11
 import "C"
 
 //export foo
